@@ -1,0 +1,17 @@
+column,highest_group,highest_%,lowest_group,lowest_%,p_value,gap_points
+JobRole,Sales Representative,39.8,Research Director,2.5,2.752481638050657e-15,37.3
+JobInvolvement,1,33.7,4,9.0,2.8631806367134195e-06,24.7
+JobLevel,1,26.3,4,4.7,6.634684715458957e-15,21.6
+OverTime,Yes,30.5,No,10.4,8.15842372153832e-21,20.1
+WorkLifeBalance,1,31.2,3,14.2,0.0009725698845348824,17.0
+BusinessTravel,Travel_Frequently,24.9,Non-Travel,8.0,5.608614476449931e-06,16.9
+StockOptionLevel,0,24.4,2,7.6,4.379390336108354e-13,16.8
+MaritalStatus,Single,25.5,Divorced,10.1,9.45551106034083e-11,15.4
+EducationField,Human Resources,25.9,Other,13.4,0.006773980139025212,12.5
+EnvironmentSatisfaction,1,25.4,4,13.5,5.1234689062894205e-05,11.9
+JobSatisfaction,1,22.8,4,11.3,0.0005563004510387556,11.5
+Education,1,18.2,5,10.4,0.5455253376565949,7.8
+Department,Sales,20.6,Research & Development,13.8,0.004525606574479633,6.8
+RelationshipSatisfaction,1,20.7,4,14.8,0.15497244371052638,5.9
+Gender,Male,17.0,Female,14.8,0.29057244902890855,2.2
+PerformanceRating,4,16.4,3,16.1,0.9900745465934576,0.3
