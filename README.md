@@ -2,7 +2,7 @@
 
 Finds what drives employees to leave and scores each employee's risk of leaving with an explanation of the score. Built on the IBM HR Analytics dataset (1,470 employees), comparing Logistic Regression, Random Forest and XGBoost with stratified cross-validation.
 
-**Live demo:** LIVE_DEMO_URL
+**Live demo:** https://mq-employee-attrition-prediction.streamlit.app/
 
 ![Attrition by group](reports/figures/attrition_by_group.png)
 
